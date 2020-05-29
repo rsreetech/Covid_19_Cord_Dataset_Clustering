@@ -15,4 +15,6 @@ Pre-requisites:
 
 Methodolgy explained in: CORD-19LiteratureClustering.doc
 
-All wordcloud figues, KMeans distortion plot and clsutered data is attached in the repsoitory
+All wordcloud figues, KMeans distortion plot and clsutered data is attached in the repository
+
+Run this code on the downloaded metadata.csv file to generate  clustered data
