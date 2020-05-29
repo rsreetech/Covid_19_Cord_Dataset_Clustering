@@ -1,7 +1,7 @@
 # Covid_19_Cord_Dataset_Clustering
-Placed here is code to perform text clustering  on Covid 19 CORD-19  Dataset
+Placed here is code to perform text clustering  on Covid 19 CORD-19  Dataset.
 Inspired from:https://github.com/MaksimEkin/COVID19-Literature-Clustering.
-Here we cluster the abstracts and not the full text and then look at wordclouds based on titles in each cluster to infer clsuter topics
+Here we cluster the abstracts and not the full text and then look at wordclouds based on titles in each cluster to infer cluster topics
 
 Donwload the Covid 19 CORD-19 Dataset here:
 https://www.semanticscholar.org/cord19/
